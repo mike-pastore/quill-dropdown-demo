@@ -1,0 +1,343 @@
+{
+  "candSummary": {
+    "summary": {
+      "attributes": {
+        "cand_name": "Blumenthal, Richard",
+        "cid": "N00031685",
+        "cycle": "2016",
+        "state": "CT",
+        "party": "D",
+        "chamber": "S",
+        "first_elected": "2010",
+        "next_election": "2016",
+        "total": "8825840",
+        "spent": "5891505",
+        "cash_on_hand": "2953419",
+        "debt": "0",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/summary.php?cid=N00031685&cycle=2016",
+        "last_updated": "12/31/2016"
+      }
+    }
+  },
+  "candContrib": {
+    "attributes": {
+      "cand_name": "Richard Blumenthal (D)",
+      "cid": "N00031685",
+      "cycle": "2016",
+      "origin": "Center for Responsive Politics",
+      "source": "http://www.opensecrets.org/politicians/contrib.php?cid=N00031685&cycle=2016",
+      "notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families."
+    },
+    "contributor": [
+      {
+        "attributes": {
+          "org_name": "BlackRock Inc",
+          "total": "51700",
+          "pacs": "5000",
+          "indivs": "46700"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Charter Communications",
+          "total": "51100",
+          "pacs": "14500",
+          "indivs": "36600"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Cablevision Systems",
+          "total": "45725",
+          "pacs": "15000",
+          "indivs": "30725"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "NorPAC",
+          "total": "38011",
+          "pacs": "9801",
+          "indivs": "28210"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "United Technologies",
+          "total": "37875",
+          "pacs": "15000",
+          "indivs": "22875"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Simmons Hanly Conroy",
+          "total": "37200",
+          "pacs": "0",
+          "indivs": "37200"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Koskoff, Koskoff & Bieder",
+          "total": "35802",
+          "pacs": "0",
+          "indivs": "35802"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Granite Telecommunications",
+          "total": "34400",
+          "pacs": "0",
+          "indivs": "34400"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Motley Rice LLC",
+          "total": "33150",
+          "pacs": "0",
+          "indivs": "33150"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Early, Lucarelli et al",
+          "total": "32392",
+          "pacs": "0",
+          "indivs": "32392"
+        }
+      }
+    ]
+  },
+  "candIndustry": {
+    "industries": {
+      "attributes": {
+        "cand_name": "Richard Blumenthal (D)",
+        "cid": "N00031685",
+        "cycle": "2016",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/industries.php?cid=N00031685&cycle=2010",
+        "last_updated": "05/16/2017"
+      },
+      "industry": [
+        {
+          "attributes": {
+            "industry_code": "K01",
+            "industry_name": "Lawyers/Law Firms",
+            "indivs": "1109221",
+            "pacs": "138841",
+            "total": "1248062"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F07",
+            "industry_name": "Securities & Investment",
+            "indivs": "801978",
+            "pacs": "68500",
+            "total": "870478"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F10",
+            "industry_name": "Real Estate",
+            "indivs": "397601",
+            "pacs": "33000",
+            "total": "430601"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "W06",
+            "industry_name": "Retired",
+            "indivs": "375550",
+            "pacs": "0",
+            "total": "375550"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "Q03",
+            "industry_name": "Leadership PACs",
+            "indivs": "0",
+            "pacs": "336500",
+            "total": "336500"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "K02",
+            "industry_name": "Lobbyists",
+            "indivs": "287802",
+            "pacs": "15550",
+            "total": "303352"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "H01",
+            "industry_name": "Health Professionals",
+            "indivs": "118323",
+            "pacs": "143250",
+            "total": "261573"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "B09",
+            "industry_name": "Telecom Services",
+            "indivs": "147750",
+            "pacs": "106250",
+            "total": "254000"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "B02",
+            "industry_name": "TV/Movies/Music",
+            "indivs": "167041",
+            "pacs": "42500",
+            "total": "209541"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F09",
+            "industry_name": "Insurance",
+            "indivs": "41835",
+            "pacs": "126600",
+            "total": "168435"
+          }
+        }
+      ]
+    }
+  },
+  "memPFDprofile": {
+    "member_profile": {
+      "attributes": {
+        "name": "Blumenthal, Richard",
+        "data_year": "2014",
+        "member_id": "N00031685",
+        "net_low": "65384277",
+        "net_high": "98106040",
+        "positions_held_count": "0",
+        "asset_count": "228",
+        "asset_low": "65384277",
+        "asset_high": "98106040",
+        "transaction_count": "20",
+        "tx_low": "5677020",
+        "tx_high": "8630003",
+        "source": "http://www.opensecrets.org/pfds/summary.php?cid=N00031685",
+        "origin": "Center for Responsive Politics",
+        "update_timestamp": "9/26/17"
+      },
+      "assets": {
+        "asset": [
+          {
+            "attributes": {
+              "name": "Empire State Realty OP LLP",
+              "holdings_low": "5000005",
+              "holdings_high": "5000005",
+              "industry": "Real Estate",
+              "sector": "Finance/Insur/RealEst",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Vanguard GNMA Fund",
+              "holdings_low": "1000001",
+              "holdings_high": "5000000",
+              "industry": "Real Estate",
+              "sector": "Finance/Insur/RealEst",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Empire State Realty Trust Inc",
+              "holdings_low": "2200006",
+              "holdings_high": "3500001",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Blue Ridge Ltd",
+              "holdings_low": "3000003",
+              "holdings_high": "3000003",
+              "industry": "Securities & Investment",
+              "sector": "Finance/Insur/RealEst",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "112 West 34th Street Assoc",
+              "holdings_low": "2100003",
+              "holdings_high": "2250002",
+              "industry": "Real Estate",
+              "sector": "Finance/Insur/RealEst",
+              "subsidiary_of": ""
+            }
+          }
+        ]
+      },
+      "transactions": {
+        "transaction": [
+          {
+            "attributes": {
+              "asset_name": "Claire Blumenthal 2012 Trust-RCB Investment Partne",
+              "tx_date": "Dec 31 2014",
+              "tx_action": "Purchased",
+              "value_low": "1000001",
+              "value_high": "1000001"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Kinrose Fund",
+              "tx_date": "May 15 2014",
+              "tx_action": "Purchased",
+              "value_low": "1000001",
+              "value_high": "1000001"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Vanguard GNMA Fund",
+              "tx_date": "Jan 23 2014",
+              "tx_action": "Exchanged",
+              "value_low": "1000001",
+              "value_high": "1000001"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "RCB Investment Partners",
+              "tx_date": "Dec 31 2014",
+              "tx_action": "Purchased",
+              "value_low": "500001",
+              "value_high": "1000000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Rockefeller Libra Fund LP",
+              "tx_date": "Jan 23 2014",
+              "tx_action": "Purchased",
+              "value_low": "500001",
+              "value_high": "1000000"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

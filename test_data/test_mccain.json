@@ -1,0 +1,365 @@
+{
+  "candSummary": {
+    "summary": {
+      "attributes": {
+        "cand_name": "McCain, John",
+        "cid": "N00006424",
+        "cycle": "2016",
+        "state": "AZ",
+        "party": "R",
+        "chamber": "S",
+        "first_elected": "1986",
+        "next_election": "2016",
+        "total": "14796427.96",
+        "spent": "14374564.01",
+        "cash_on_hand": "421864",
+        "debt": "0",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/summary.php?cid=N00006424&cycle=2016",
+        "last_updated": "12/31/2016"
+      }
+    }
+  },
+  "candContrib": {
+    "attributes": {
+      "cand_name": "John McCain (R)",
+      "cid": "N00006424",
+      "cycle": "2016",
+      "origin": "Center for Responsive Politics",
+      "source": "http://www.opensecrets.org/politicians/contrib.php?cid=N00006424&cycle=2016",
+      "notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families."
+    },
+    "contributor": [
+      {
+        "attributes": {
+          "org_name": "General Electric",
+          "total": "83630",
+          "pacs": "10000",
+          "indivs": "73630"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Pinnacle West Capital",
+          "total": "81650",
+          "pacs": "10000",
+          "indivs": "71650"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "NorPAC",
+          "total": "77293",
+          "pacs": "-7",
+          "indivs": "77300"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Greenberg Traurig LLP",
+          "total": "64249",
+          "pacs": "0",
+          "indivs": "64249"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Blackstone Group",
+          "total": "57800",
+          "pacs": "2500",
+          "indivs": "55300"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Elliott Management",
+          "total": "47900",
+          "pacs": "0",
+          "indivs": "47900"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "BAE Systems",
+          "total": "46400",
+          "pacs": "9500",
+          "indivs": "36900"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Pvs Chemicals",
+          "total": "46000",
+          "pacs": "0",
+          "indivs": "46000"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Raytheon Co",
+          "total": "45575",
+          "pacs": "9000",
+          "indivs": "36575"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Morgan Stanley",
+          "total": "39350",
+          "pacs": "0",
+          "indivs": "39350"
+        }
+      }
+    ]
+  },
+  "candIndustry": {
+    "industries": {
+      "attributes": {
+        "cand_name": "John McCain (R)",
+        "cid": "N00006424",
+        "cycle": "2016",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/industries.php?cid=N00006424&cycle=2010",
+        "last_updated": "05/16/2017"
+      },
+      "industry": [
+        {
+          "attributes": {
+            "industry_code": "W06",
+            "industry_name": "Retired",
+            "indivs": "1140114",
+            "pacs": "0",
+            "total": "1140114"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F07",
+            "industry_name": "Securities & Investment",
+            "indivs": "917950",
+            "pacs": "10000",
+            "total": "927950"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F10",
+            "industry_name": "Real Estate",
+            "indivs": "605504",
+            "pacs": "62100",
+            "total": "667604"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "K01",
+            "industry_name": "Lawyers/Law Firms",
+            "indivs": "432194",
+            "pacs": "107051",
+            "total": "539245"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "Q03",
+            "industry_name": "Leadership PACs",
+            "indivs": "0",
+            "pacs": "460500",
+            "total": "460500"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "N05",
+            "industry_name": "Business Services",
+            "indivs": "271048",
+            "pacs": "19100",
+            "total": "290148"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "Q05",
+            "industry_name": "Pro-Israel",
+            "indivs": "207634",
+            "pacs": "55693",
+            "total": "263327"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "K02",
+            "industry_name": "Lobbyists",
+            "indivs": "227156",
+            "pacs": "1000",
+            "total": "228156"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F13",
+            "industry_name": "Misc Finance",
+            "indivs": "221185",
+            "pacs": "5500",
+            "total": "226685"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F09",
+            "industry_name": "Insurance",
+            "indivs": "89945",
+            "pacs": "125500",
+            "total": "215445"
+          }
+        }
+      ]
+    }
+  },
+  "memPFDprofile": {
+    "member_profile": {
+      "attributes": {
+        "name": "McCain, John",
+        "data_year": "2014",
+        "member_id": "N00006424",
+        "net_low": "14150132",
+        "net_high": "25134002",
+        "positions_held_count": "3",
+        "asset_count": "125",
+        "asset_low": "14550132",
+        "asset_high": "25279006",
+        "transaction_count": "178",
+        "tx_low": "10870194",
+        "tx_high": "24725000",
+        "source": "http://www.opensecrets.org/pfds/summary.php?cid=N00006424",
+        "origin": "Center for Responsive Politics",
+        "update_timestamp": "9/26/17"
+      },
+      "assets": {
+        "asset": [
+          {
+            "attributes": {
+              "name": "American Funds Income Fund of America",
+              "holdings_low": "1000001",
+              "holdings_high": "1000001",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Hensley & Co",
+              "holdings_low": "1000001",
+              "holdings_high": "1000001",
+              "industry": "Beer, Wine & Liquor",
+              "sector": "Misc Business",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Note Receivable - James Hensley McCain Irrev Trust",
+              "holdings_low": "1000001",
+              "holdings_high": "1000001",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Note Receivable - John Sidney McCain IV Irrev Trus",
+              "holdings_low": "1000001",
+              "holdings_high": "1000001",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Note Receivable - Meghan Marguerite McCain Irrev T",
+              "holdings_low": "1000001",
+              "holdings_high": "1000001",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          }
+        ]
+      },
+      "transactions": {
+        "transaction": [
+          {
+            "attributes": {
+              "asset_name": "Pimco Total Return Fund",
+              "tx_date": "May 30 2014",
+              "tx_action": "Exchanged",
+              "value_low": "500001",
+              "value_high": "1000000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Metropolitan West Total Return Bond Fund",
+              "tx_date": "May 30 2014",
+              "tx_action": "Purchased",
+              "value_low": "500001",
+              "value_high": "1000000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Dream Catcher Family LLC",
+              "tx_date": "May 23 2014",
+              "tx_action": "Exchanged",
+              "value_low": "250001",
+              "value_high": "500000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Pimco Investment Grade",
+              "tx_date": "May 30 2014",
+              "tx_action": "Exchanged",
+              "value_low": "250001",
+              "value_high": "500000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Pimco Total Return Fund",
+              "tx_date": "May 30 2014",
+              "tx_action": "Exchanged",
+              "value_low": "100001",
+              "value_high": "250000"
+            }
+          }
+        ]
+      },
+      "positions": {
+        "position": [
+          {
+            "attributes": {
+              "title": "Chairman of the Board of Directors",
+              "organization": "International Republican Institute"
+            }
+          },
+          {
+            "attributes": {
+              "title": "Trustee",
+              "organization": "Intrepid Foundation"
+            }
+          },
+          {
+            "attributes": {
+              "title": "Chairman of National Advisory Council",
+              "organization": "Translational Genomics Research Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

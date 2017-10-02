@@ -1,0 +1,341 @@
+{
+  "candSummary": {
+    "summary": {
+      "attributes": {
+        "cand_name": "Warren, Elizabeth",
+        "cid": "N00033492",
+        "cycle": "2016",
+        "state": "MA",
+        "party": "D",
+        "chamber": "S",
+        "first_elected": "2012",
+        "next_election": "2018",
+        "total": "51431099",
+        "spent": "46586903",
+        "cash_on_hand": "4845545",
+        "debt": "0",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/summary.php?cid=N00033492&cycle=2016",
+        "last_updated": "12/31/2016"
+      }
+    }
+  },
+  "candContrib": {
+    "attributes": {
+      "cand_name": "Elizabeth Warren (D)",
+      "cid": "N00033492",
+      "cycle": "2016",
+      "origin": "Center for Responsive Politics",
+      "source": "http://www.opensecrets.org/politicians/contrib.php?cid=N00033492&cycle=2016",
+      "notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families."
+    },
+    "contributor": [
+      {
+        "attributes": {
+          "org_name": "EMILY's List",
+          "total": "506595",
+          "pacs": "0",
+          "indivs": "506595"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Moveon.org",
+          "total": "453517",
+          "pacs": "323977",
+          "indivs": "129540"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Harvard University",
+          "total": "320433",
+          "pacs": "0",
+          "indivs": "320433"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Partners HealthCare",
+          "total": "122588",
+          "pacs": "0",
+          "indivs": "122588"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "University of California",
+          "total": "82335",
+          "pacs": "0",
+          "indivs": "82335"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Massachusetts Institute of Technology",
+          "total": "78264",
+          "pacs": "0",
+          "indivs": "78264"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Boston University",
+          "total": "75395",
+          "pacs": "0",
+          "indivs": "75395"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Brown Rudnick LLP",
+          "total": "73477",
+          "pacs": "1000",
+          "indivs": "72477"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Commonwealth of Massachusetts",
+          "total": "58766",
+          "pacs": "0",
+          "indivs": "58766"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Ropes & Gray",
+          "total": "57725",
+          "pacs": "0",
+          "indivs": "57725"
+        }
+      }
+    ]
+  },
+  "candIndustry": {
+    "attributes": {
+      "cand_name": "Elizabeth Warren (D)",
+      "cid": "N00033492",
+      "cycle": "2016",
+      "origin": "Center for Responsive Politics",
+      "source": "http://www.opensecrets.org/politicians/industries.php?cid=N00033492&cycle=2010",
+      "last_updated": "05/16/2017"
+    },
+    "industry": [
+      {
+        "attributes": {
+          "industry_code": "W06",
+          "industry_name": "Retired",
+          "indivs": "4162277",
+          "pacs": "0",
+          "total": "4162277"
+        }
+      },
+      {
+        "attributes": {
+          "industry_code": "K01",
+          "industry_name": "Lawyers/Law Firms",
+          "indivs": "2305231",
+          "pacs": "29000",
+          "total": "2334231"
+        }
+      },
+      {
+        "attributes": {
+          "industry_code": "Q02",
+          "industry_name": "Democratic/Liberal",
+          "indivs": "1579401",
+          "pacs": "361533",
+          "total": "1940934"
+        }
+      },
+      {
+        "attributes": {
+          "industry_code": "Q08",
+          "industry_name": "Women's Issues",
+          "indivs": "1578161",
+          "pacs": "20472",
+          "total": "1598633"
+        }
+      },
+      {
+        "attributes": {
+          "industry_code": "W04",
+          "industry_name": "Education",
+          "indivs": "1498885",
+          "pacs": "0",
+          "total": "1498885"
+        }
+      },
+      {
+        "attributes": {
+          "industry_code": "F07",
+          "industry_name": "Securities & Investment",
+          "indivs": "642016",
+          "pacs": "5000",
+          "total": "647016"
+        }
+      },
+      {
+        "attributes": {
+          "industry_code": "B02",
+          "industry_name": "TV/Movies/Music",
+          "indivs": "535587",
+          "pacs": "0",
+          "total": "535587"
+        }
+      },
+      {
+        "attributes": {
+          "industry_code": "N05",
+          "industry_name": "Business Services",
+          "indivs": "512165",
+          "pacs": "2500",
+          "total": "514665"
+        }
+      },
+      {
+        "attributes": {
+          "industry_code": "H01",
+          "industry_name": "Health Professionals",
+          "indivs": "509439",
+          "pacs": "4500",
+          "total": "513939"
+        }
+      },
+      {
+        "attributes": {
+          "industry_code": "B01",
+          "industry_name": "Printing & Publishing",
+          "indivs": "419486",
+          "pacs": "0",
+          "total": "419486"
+        }
+      }
+    ]
+  },
+  "memPFDprofile": {
+    "member_profile": {
+      "attributes": {
+        "name": "",
+        "data_year": "2014",
+        "member_id": "N00033492",
+        "net_low": "4259026",
+        "net_high": "10710001",
+        "positions_held_count": "0",
+        "asset_count": "18",
+        "asset_low": "4259026",
+        "asset_high": "10710001",
+        "transaction_count": "25",
+        "tx_low": "39025",
+        "tx_high": "410000",
+        "source": "http://www.opensecrets.org/pfds/summary.php?cid=N00033492",
+        "origin": "Center for Responsive Politics",
+        "update_timestamp": "02/28/17"
+      },
+      "assets": {
+        "asset": [
+          {
+            "attributes": {
+              "name": "TIAA-CREF Traditional",
+              "holdings_low": "2000002",
+              "holdings_high": "6000001",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "TIAA-CREF Equity Index-Institutional",
+              "holdings_low": "500001",
+              "holdings_high": "1000000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "TIAA-CREF Stock",
+              "holdings_low": "500001",
+              "holdings_high": "1000000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "TIAA-CREF Real Estate Fund",
+              "holdings_low": "300002",
+              "holdings_high": "600000",
+              "industry": "Real Estate",
+              "sector": "Finance/Insur/RealEst",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "GE Capital Bank(Draper, UT)/CD",
+              "holdings_low": "300002",
+              "holdings_high": "600000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          }
+        ]
+      },
+      "transactions": {
+        "transaction": [
+          {
+            "attributes": {
+              "asset_name": "TIAA-CREF Real Estate Fund",
+              "tx_date": "Apr 17 2014",
+              "tx_action": "Purchased",
+              "value_low": "15001",
+              "value_high": "50000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "TIAA-CREF Traditional",
+              "tx_date": "Mar 17 2014",
+              "tx_action": "Sold",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "TIAA-CREF Traditional",
+              "tx_date": "Feb 18 2014",
+              "tx_action": "Sold",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "TIAA-CREF Traditional",
+              "tx_date": "Jan 16 2014",
+              "tx_action": "Sold",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "TIAA-CREF Real Estate Fund",
+              "tx_date": "Mar 17 2014",
+              "tx_action": "Purchased",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

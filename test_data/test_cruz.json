@@ -1,0 +1,333 @@
+{
+  "candSummary": {
+    "summary": {
+      "attributes": {
+        "cand_name": "Cruz, Ted",
+        "cid": "N00033085",
+        "cycle": "2016",
+        "state": "TX",
+        "party": "R",
+        "chamber": "Pres",
+        "first_elected": "2012",
+        "next_election": "2016",
+        "total": "89528776",
+        "spent": "89432111",
+        "cash_on_hand": "96666",
+        "debt": "0",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/summary.php?cid=N00033085&cycle=2016",
+        "last_updated": "09/30/2016"
+      }
+    }
+  },
+  "candContrib": {
+    "attributes": {
+      "cand_name": "Ted Cruz (R)",
+      "cid": "N00033085",
+      "cycle": "2016",
+      "origin": "Center for Responsive Politics",
+      "source": "http://www.opensecrets.org/politicians/contrib.php?cid=N00033085&cycle=2016",
+      "notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families."
+    },
+    "contributor": [
+      {
+        "attributes": {
+          "org_name": "Club for Growth",
+          "total": "707607",
+          "pacs": "55",
+          "indivs": "707552"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Senate Conservatives Fund",
+          "total": "315991",
+          "pacs": "10000",
+          "indivs": "305991"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Woodforest Financial Group",
+          "total": "170350",
+          "pacs": "0",
+          "indivs": "170350"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Morgan Lewis LLP",
+          "total": "91916",
+          "pacs": "0",
+          "indivs": "91916"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Goldman Sachs",
+          "total": "90950",
+          "pacs": "5000",
+          "indivs": "85950"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Sullivan & Cromwell",
+          "total": "74800",
+          "pacs": "0",
+          "indivs": "74800"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "RE Janes Gravel Co",
+          "total": "60600",
+          "pacs": "0",
+          "indivs": "60600"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Avalon Advisors",
+          "total": "57400",
+          "pacs": "0",
+          "indivs": "57400"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Baker Botts LLP",
+          "total": "57213",
+          "pacs": "7500",
+          "indivs": "49713"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Jones Day",
+          "total": "49900",
+          "pacs": "0",
+          "indivs": "49900"
+        }
+      }
+    ]
+  },
+  "candIndustry": {
+        "industries": {
+            "attributes": {
+                "cand_name": "Ted Cruz (R)",
+                "cid": "N00033085",
+                "cycle": "2016",
+                "origin": "Center for Responsive Politics",
+                "source": "http://www.opensecrets.org/politicians/industries.php?cid=N00033085&cycle=2010",
+                "last_updated": "05/16/2017"
+            },
+            "industry": [
+                {
+                    "attributes": {
+                        "industry_code": "W06",
+                        "industry_name": "Retired",
+                        "indivs": "2073722",
+                        "pacs": "0",
+                        "total": "2073722"
+                    }
+                },
+                {
+                    "attributes": {
+                        "industry_code": "Q01",
+                        "industry_name": "Republican/Conservative",
+                        "indivs": "1954577",
+                        "pacs": "111405",
+                        "total": "2065982"
+                    }
+                },
+                {
+                    "attributes": {
+                        "industry_code": "E01",
+                        "industry_name": "Oil & Gas",
+                        "indivs": "1195768",
+                        "pacs": "179000",
+                        "total": "1374768"
+                    }
+                },
+                {
+                    "attributes": {
+                        "industry_code": "K01",
+                        "industry_name": "Lawyers/Law Firms",
+                        "indivs": "1189722",
+                        "pacs": "57249",
+                        "total": "1246971"
+                    }
+                },
+                {
+                    "attributes": {
+                        "industry_code": "F07",
+                        "industry_name": "Securities & Investment",
+                        "indivs": "1149327",
+                        "pacs": "24500",
+                        "total": "1173827"
+                    }
+                },
+                {
+                    "attributes": {
+                        "industry_code": "F10",
+                        "industry_name": "Real Estate",
+                        "indivs": "972230",
+                        "pacs": "24000",
+                        "total": "996230"
+                    }
+                },
+                {
+                    "attributes": {
+                        "industry_code": "F13",
+                        "industry_name": "Misc Finance",
+                        "indivs": "669929",
+                        "pacs": "3500",
+                        "total": "673429"
+                    }
+                },
+                {
+                    "attributes": {
+                        "industry_code": "H01",
+                        "industry_name": "Health Professionals",
+                        "indivs": "540722",
+                        "pacs": "38000",
+                        "total": "578722"
+                    }
+                },
+                {
+                    "attributes": {
+                        "industry_code": "N12",
+                        "industry_name": "Misc Business",
+                        "indivs": "480488",
+                        "pacs": "10500",
+                        "total": "490988"
+                    }
+                },
+                {
+                    "attributes": {
+                        "industry_code": "N05",
+                        "industry_name": "Business Services",
+                        "indivs": "447609",
+                        "pacs": "8000",
+                        "total": "455609"
+                    }
+                }
+            ]
+        }
+    },
+  "memPFDprofile": {
+    "member_profile": {
+      "attributes": {
+        "name": "",
+        "data_year": "2014",
+        "member_id": "N00033085",
+        "net_low": "1447039",
+        "net_high": "4579997",
+        "positions_held_count": "1",
+        "asset_count": "36",
+        "asset_low": "2112039",
+        "asset_high": "4905000",
+        "transaction_count": "3",
+        "tx_low": "17003",
+        "tx_high": "80000",
+        "source": "http://www.opensecrets.org/pfds/summary.php?cid=N00033085",
+        "origin": "Center for Responsive Politics",
+        "update_timestamp": "02/28/17"
+      },
+      "assets": {
+        "asset": [
+          {
+            "attributes": {
+              "name": "Loan to Ted Cruz for Senate",
+              "holdings_low": "500001",
+              "holdings_high": "1000000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Morgan Lewis Cash Balance Retirement Plan",
+              "holdings_low": "250001",
+              "holdings_high": "500000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "BlackRock Municipal Income Trust",
+              "holdings_low": "250001",
+              "holdings_high": "500000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Blackrock Lifepath Portfolio Target 2035",
+              "holdings_low": "100001",
+              "holdings_high": "250000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Enterprise Products Partners",
+              "holdings_low": "100001",
+              "holdings_high": "250000",
+              "industry": "Oil & Gas",
+              "sector": "Energy/Nat Resource",
+              "subsidiary_of": ""
+            }
+          }
+        ]
+      },
+      "transactions": {
+        "transaction": [
+          {
+            "attributes": {
+              "asset_name": "Goldman Sachs High Yield Fl Rate Institutional",
+              "tx_date": "Feb  7 2014",
+              "tx_action": "Purchased",
+              "value_low": "15001",
+              "value_high": "50000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Goldman Sachs Small Cap Value Institutional",
+              "tx_date": "Dec  4 2014",
+              "tx_action": "Purchased",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "BlackRock Municipal Income Trust",
+              "tx_date": "Dec 23 2014",
+              "tx_action": "Purchased",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          }
+        ]
+      },
+      "positions": {
+        "position": {
+          "attributes": {
+            "title": "Trustee",
+            "organization": "Free Enterprise Institute"
+          }
+        }
+      }
+    }
+  }
+}

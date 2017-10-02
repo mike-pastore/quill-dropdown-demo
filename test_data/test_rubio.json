@@ -1,0 +1,351 @@
+{
+  "candSummary": {
+    "summary": {
+      "attributes": {
+        "cand_name": "Rubio, Marco",
+        "cid": "N00030612",
+        "cycle": "2016",
+        "state": "FL",
+        "party": "R",
+        "chamber": "Pres",
+        "first_elected": "2010",
+        "next_election": "2016",
+        "total": "52331502",
+        "spent": "52599537",
+        "cash_on_hand": "273485",
+        "debt": "1532657",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/summary.php?cid=N00030612&cycle=2016",
+        "last_updated": "09/30/2016"
+      }
+    }
+  },
+  "candContrib": {
+    "attributes": {
+      "cand_name": "Marco Rubio (R)",
+      "cid": "N00030612",
+      "cycle": "2016",
+      "origin": "Center for Responsive Politics",
+      "source": "http://www.opensecrets.org/politicians/contrib.php?cid=N00030612&cycle=2016",
+      "notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families."
+    },
+    "contributor": [
+      {
+        "attributes": {
+          "org_name": "Club for Growth",
+          "total": "286280",
+          "pacs": "25",
+          "indivs": "286255"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Elliott Management",
+          "total": "191700",
+          "pacs": "0",
+          "indivs": "191700"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Blackstone Group",
+          "total": "93900",
+          "pacs": "3500",
+          "indivs": "90400"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Goldman Sachs",
+          "total": "92100",
+          "pacs": "10000",
+          "indivs": "82100"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "The Villages",
+          "total": "90112",
+          "pacs": "0",
+          "indivs": "90112"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Fanjul Corp",
+          "total": "67160",
+          "pacs": "0",
+          "indivs": "67160"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "NextEra Energy",
+          "total": "64400",
+          "pacs": "10000",
+          "indivs": "54400"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Greenberg Traurig LLP",
+          "total": "60925",
+          "pacs": "2500",
+          "indivs": "58425"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Agree Realty",
+          "total": "54000",
+          "pacs": "0",
+          "indivs": "54000"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Pence Group",
+          "total": "54000",
+          "pacs": "0",
+          "indivs": "54000"
+        }
+      }
+    ]
+  },
+  "candIndustry": {
+    "industries": {
+      "attributes": {
+        "cand_name": "Marco Rubio (R)",
+        "cid": "N00030612",
+        "cycle": "2016",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/industries.php?cid=N00030612&cycle=2010",
+        "last_updated": "05/16/2017"
+      },
+      "industry": [
+        {
+          "attributes": {
+            "industry_code": "W06",
+            "industry_name": "Retired",
+            "indivs": "4580440",
+            "pacs": "0",
+            "total": "4580440"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F07",
+            "industry_name": "Securities & Investment",
+            "indivs": "1754212",
+            "pacs": "66930",
+            "total": "1821142"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "Q01",
+            "industry_name": "Republican/Conservative",
+            "indivs": "1188314",
+            "pacs": "74793",
+            "total": "1263107"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F10",
+            "industry_name": "Real Estate",
+            "indivs": "1171034",
+            "pacs": "56500",
+            "total": "1227534"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "K01",
+            "industry_name": "Lawyers/Law Firms",
+            "indivs": "724143",
+            "pacs": "108350",
+            "total": "832493"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F13",
+            "industry_name": "Misc Finance",
+            "indivs": "599228",
+            "pacs": "21000",
+            "total": "620228"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "E01",
+            "industry_name": "Oil & Gas",
+            "indivs": "328711",
+            "pacs": "196166",
+            "total": "524877"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "N05",
+            "industry_name": "Business Services",
+            "indivs": "417654",
+            "pacs": "20000",
+            "total": "437654"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "Q03",
+            "industry_name": "Leadership PACs",
+            "indivs": "0",
+            "pacs": "419041",
+            "total": "419041"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F09",
+            "industry_name": "Insurance",
+            "indivs": "203216",
+            "pacs": "189450",
+            "total": "392666"
+          }
+        }
+      ]
+    }
+  },
+  "memPFDprofile": {
+    "member_profile": {
+      "attributes": {
+        "name": "Rubio, Marco",
+        "data_year": "2014",
+        "member_id": "N00030612",
+        "net_low": "37012",
+        "net_high": "704999",
+        "positions_held_count": "1",
+        "asset_count": "9",
+        "asset_low": "287012",
+        "asset_high": "805000",
+        "transaction_count": "6",
+        "tx_low": "48006",
+        "tx_high": "195000",
+        "source": "http://www.opensecrets.org/pfds/summary.php?cid=N00030612",
+        "origin": "Center for Responsive Politics",
+        "update_timestamp": "9/26/17"
+      },
+      "assets": {
+        "asset": [
+          {
+            "attributes": {
+              "name": "Citibank(Miami, FL)/Checking",
+              "holdings_low": "100001",
+              "holdings_high": "250000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Residence/Talahassee, FL",
+              "holdings_low": "100001",
+              "holdings_high": "250000",
+              "industry": "Real Estate",
+              "sector": "Finance/Insur/RealEst",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "4 Year University Tuition PlanInstitution: Florida",
+              "holdings_low": "32004",
+              "holdings_high": "130000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Citibank(Miami, FL) Money Market",
+              "holdings_low": "50001",
+              "holdings_high": "100000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "TD Ameritrade(Omaha, NE)/Savings",
+              "holdings_low": "1001",
+              "holdings_high": "15000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          }
+        ]
+      },
+      "transactions": {
+        "transaction": [
+          {
+            "attributes": {
+              "asset_name": "ABA Retirement Fund Large-Cap Equity Fund",
+              "tx_date": "Sep  1 2014",
+              "tx_action": "Sold",
+              "value_low": "15001",
+              "value_high": "50000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "ABA Retirement Fund All Cap Index Equity Fund",
+              "tx_date": "Sep  1 2014",
+              "tx_action": "Sold",
+              "value_low": "15001",
+              "value_high": "50000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "ABA Retirement Fund Stable Asset Return Fund",
+              "tx_date": "Sep  1 2014",
+              "tx_action": "Sold",
+              "value_low": "15001",
+              "value_high": "50000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "ABA Retirement Fund Bond Core Plus Fund",
+              "tx_date": "Sep  1 2014",
+              "tx_action": "Sold",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "ABA Retirement Funds Intl All Cap Equity",
+              "tx_date": "Sep  1 2014",
+              "tx_action": "Sold",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          }
+        ]
+      },
+      "positions": {
+        "position": {
+          "attributes": {
+            "title": "Other (Senior Fellow)",
+            "organization": "Florida International University"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "candSummary": {
+    "summary": {
+      "attributes": {
+        "cand_name": "Schumer, Charles E",
+        "cid": "N00001093",
+        "cycle": "2016",
+        "state": "NY",
+        "party": "D",
+        "chamber": "S",
+        "first_elected": "1998",
+        "next_election": "2016",
+        "total": "24865827",
+        "spent": "24381064",
+        "cash_on_hand": "10676815",
+        "debt": "0",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/summary.php?cid=N00001093&cycle=2016",
+        "last_updated": "12/31/2016"
+      }
+    }
+  },
+  "candContrib": {
+    "attributes": {
+      "cand_name": "Charles E Schumer (D)",
+      "cid": "N00001093",
+      "cycle": "2016",
+      "origin": "Center for Responsive Politics",
+      "source": "http://www.opensecrets.org/politicians/contrib.php?cid=N00001093&cycle=2016",
+      "notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families."
+    },
+    "contributor": [
+      {
+        "attributes": {
+          "org_name": "Paul, Weiss et al",
+          "total": "156350",
+          "pacs": "0",
+          "indivs": "156350"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "NorPAC",
+          "total": "123768",
+          "pacs": "3400",
+          "indivs": "120368"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Blackstone Group",
+          "total": "113500",
+          "pacs": "4000",
+          "indivs": "109500"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Lockheed Martin",
+          "total": "103950",
+          "pacs": "10000",
+          "indivs": "93950"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Deloitte LLP",
+          "total": "102251",
+          "pacs": "10000",
+          "indivs": "92251"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Lazard Ltd",
+          "total": "100250",
+          "pacs": "0",
+          "indivs": "100250"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "PricewaterhouseCoopers",
+          "total": "99000",
+          "pacs": "10000",
+          "indivs": "89000"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Citigroup Inc",
+          "total": "93150",
+          "pacs": "10000",
+          "indivs": "83150"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "KPMG LLP",
+          "total": "87800",
+          "pacs": "10000",
+          "indivs": "77800"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Alphabet Inc",
+          "total": "85718",
+          "pacs": "1500",
+          "indivs": "84218"
+        }
+      }
+    ]
+  },
+  "candIndustry": {
+    "industries": {
+      "attributes": {
+        "cand_name": "Charles E Schumer (D)",
+        "cid": "N00001093",
+        "cycle": "2016",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/industries.php?cid=N00001093&cycle=2010",
+        "last_updated": "05/16/2017"
+      },
+      "industry": [
+        {
+          "attributes": {
+            "industry_code": "F07",
+            "industry_name": "Securities & Investment",
+            "indivs": "2925606",
+            "pacs": "258700",
+            "total": "3184306"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "K01",
+            "industry_name": "Lawyers/Law Firms",
+            "indivs": "1821992",
+            "pacs": "250551",
+            "total": "2072543"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F10",
+            "industry_name": "Real Estate",
+            "indivs": "1737622",
+            "pacs": "90500",
+            "total": "1828122"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F09",
+            "industry_name": "Insurance",
+            "indivs": "341100",
+            "pacs": "378000",
+            "total": "719100"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "W06",
+            "industry_name": "Retired",
+            "indivs": "673096",
+            "pacs": "0",
+            "total": "673096"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "K02",
+            "industry_name": "Lobbyists",
+            "indivs": "560727",
+            "pacs": "20400",
+            "total": "581127"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F13",
+            "industry_name": "Misc Finance",
+            "indivs": "510392",
+            "pacs": "69100",
+            "total": "579492"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "B02",
+            "industry_name": "TV/Movies/Music",
+            "indivs": "455157",
+            "pacs": "84500",
+            "total": "539657"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "B12",
+            "industry_name": "Electronics Mfg & Equip",
+            "indivs": "410245",
+            "pacs": "122034",
+            "total": "532279"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "H02",
+            "industry_name": "Hospitals/Nursing Homes",
+            "indivs": "360278",
+            "pacs": "158200",
+            "total": "518478"
+          }
+        }
+      ]
+    }
+  },
+  "memPFDprofile": {
+    "member_profile": {
+      "attributes": {
+        "name": "Schumer, Charles E",
+        "data_year": "2014",
+        "member_id": "N00001093",
+        "net_low": "438016",
+        "net_high": "1120000",
+        "positions_held_count": "0",
+        "asset_count": "12",
+        "asset_low": "438016",
+        "asset_high": "1120000",
+        "transaction_count": "7",
+        "tx_low": "7007",
+        "tx_high": "105000",
+        "source": "http://www.opensecrets.org/pfds/summary.php?cid=N00001093",
+        "origin": "Center for Responsive Politics",
+        "update_timestamp": "9/26/17"
+      },
+      "assets": {
+        "asset": [
+          {
+            "attributes": {
+              "name": "Morgan Stanley(New York, NY) Money Market",
+              "holdings_low": "165003",
+              "holdings_high": "400000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "New York City Deferred Compensation Plan",
+              "holdings_low": "100001",
+              "holdings_high": "250000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Congressional Federal Credit Union Account",
+              "holdings_low": "50001",
+              "holdings_high": "100000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Teachers Retirement System Deferred Comp",
+              "holdings_low": "50001",
+              "holdings_high": "100000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "TIAA CREF Money Market",
+              "holdings_low": "50001",
+              "holdings_high": "100000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          }
+        ]
+      },
+      "transactions": {
+        "transaction": [
+          {
+            "attributes": {
+              "asset_name": "TIAA Acc Lifecycle 2015 T1",
+              "tx_date": "Dec 12 2014",
+              "tx_action": "Purchased",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "TIAA Acc Lifecycle 2015 T1",
+              "tx_date": "Nov 28 2014",
+              "tx_action": "Purchased",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "TIAA Acc Lifecycle 2015 T1",
+              "tx_date": "Nov 14 2014",
+              "tx_action": "Purchased",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "TIAA Acc Lifecycle 2015 T1",
+              "tx_date": "Oct 31 2014",
+              "tx_action": "Purchased",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "TIAA Acc Lifecycle 2015 T1",
+              "tx_date": "Oct 17 2014",
+              "tx_action": "Purchased",
+              "value_low": "1001",
+              "value_high": "15000"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

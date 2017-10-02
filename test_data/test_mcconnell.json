@@ -1,0 +1,359 @@
+{
+  "candSummary": {
+    "summary": {
+      "attributes": {
+        "cand_name": "McConnell, Mitch",
+        "cid": "N00003389",
+        "cycle": "2016",
+        "state": "KY",
+        "party": "R",
+        "chamber": "S",
+        "first_elected": "1984",
+        "next_election": "2020",
+        "total": "30167647",
+        "spent": "30259654",
+        "cash_on_hand": "925444",
+        "debt": "0",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/summary.php?cid=N00003389&cycle=2016",
+        "last_updated": "12/31/2016"
+      }
+    }
+  },
+  "candContrib": {
+    "attributes": {
+      "cand_name": "Mitch McConnell (R)",
+      "cid": "N00003389",
+      "cycle": "2016",
+      "origin": "Center for Responsive Politics",
+      "source": "http://www.opensecrets.org/politicians/contrib.php?cid=N00003389&cycle=2016",
+      "notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families."
+    },
+    "contributor": [
+      {
+        "attributes": {
+          "org_name": "Blackstone Group",
+          "total": "217700",
+          "pacs": "14000",
+          "indivs": "203700"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Goldman Sachs",
+          "total": "118425",
+          "pacs": "12500",
+          "indivs": "105925"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Kindred Healthcare",
+          "total": "104650",
+          "pacs": "15000",
+          "indivs": "89650"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Humana Inc",
+          "total": "103300",
+          "pacs": "10000",
+          "indivs": "93300"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "DaVita HealthCare Partners",
+          "total": "100875",
+          "pacs": "17500",
+          "indivs": "83375"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "NorPAC",
+          "total": "100151",
+          "pacs": "-249",
+          "indivs": "100400"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "JPMorgan Chase & Co",
+          "total": "97075",
+          "pacs": "10000",
+          "indivs": "87075"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Alliance Resource Partners",
+          "total": "96150",
+          "pacs": "5000",
+          "indivs": "91150"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Votesane PAC",
+          "total": "82500",
+          "pacs": "0",
+          "indivs": "82500"
+        }
+      },
+      {
+        "attributes": {
+          "org_name": "Citigroup Inc",
+          "total": "79300",
+          "pacs": "10000",
+          "indivs": "69300"
+        }
+      }
+    ]
+  },
+  "candIndustry": {
+    "industries": {
+      "attributes": {
+        "cand_name": "Mitch McConnell (R)",
+        "cid": "N00003389",
+        "cycle": "2016",
+        "origin": "Center for Responsive Politics",
+        "source": "http://www.opensecrets.org/politicians/industries.php?cid=N00003389&cycle=2010",
+        "last_updated": "05/16/2017"
+      },
+      "industry": [
+        {
+          "attributes": {
+            "industry_code": "F07",
+            "industry_name": "Securities & Investment",
+            "indivs": "2128437",
+            "pacs": "265100",
+            "total": "2393537"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "W06",
+            "industry_name": "Retired",
+            "indivs": "1444585",
+            "pacs": "0",
+            "total": "1444585"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "E01",
+            "industry_name": "Oil & Gas",
+            "indivs": "785785",
+            "pacs": "394599",
+            "total": "1180384"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "K01",
+            "industry_name": "Lawyers/Law Firms",
+            "indivs": "761264",
+            "pacs": "293450",
+            "total": "1054714"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "H01",
+            "industry_name": "Health Professionals",
+            "indivs": "722095",
+            "pacs": "289000",
+            "total": "1011095"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F09",
+            "industry_name": "Insurance",
+            "indivs": "631500",
+            "pacs": "369000",
+            "total": "1000500"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F10",
+            "industry_name": "Real Estate",
+            "indivs": "872400",
+            "pacs": "88100",
+            "total": "960500"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "K02",
+            "industry_name": "Lobbyists",
+            "indivs": "675316",
+            "pacs": "28646",
+            "total": "703962"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "F13",
+            "industry_name": "Misc Finance",
+            "indivs": "616030",
+            "pacs": "53000",
+            "total": "669030"
+          }
+        },
+        {
+          "attributes": {
+            "industry_code": "H04",
+            "industry_name": "Pharmaceuticals/Health Products",
+            "indivs": "240900",
+            "pacs": "356673",
+            "total": "597573"
+          }
+        }
+      ]
+    }
+  },
+  "memPFDprofile": {
+    "member_profile": {
+      "attributes": {
+        "name": "McConnell, Mitch",
+        "data_year": "2014",
+        "member_id": "N00003389",
+        "net_low": "9447058",
+        "net_high": "34882000",
+        "positions_held_count": "2",
+        "asset_count": "49",
+        "asset_low": "9447058",
+        "asset_high": "34882000",
+        "transaction_count": "51",
+        "tx_low": "803051",
+        "tx_high": "2370000",
+        "source": "http://www.opensecrets.org/pfds/summary.php?cid=N00003389",
+        "origin": "Center for Responsive Politics",
+        "update_timestamp": "02/28/17"
+      },
+      "assets": {
+        "asset": [
+          {
+            "attributes": {
+              "name": "Vanguard 500 Index Admiral Fund",
+              "holdings_low": "2250003",
+              "holdings_high": "10500000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Vanguard Tax-Exempt Money Market",
+              "holdings_low": "1001002",
+              "holdings_high": "5015000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Real Property with Carriage House RentalDescriptio",
+              "holdings_low": "1000001",
+              "holdings_high": "5000000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Suntrust Advantage Money Market",
+              "holdings_low": "1000001",
+              "holdings_high": "5000000",
+              "industry": "Unknown",
+              "sector": "Unknown",
+              "subsidiary_of": ""
+            }
+          },
+          {
+            "attributes": {
+              "name": "Wells Fargo",
+              "holdings_low": "501002",
+              "holdings_high": "1015000",
+              "industry": "Commercial Banks",
+              "sector": "Finance/Insur/RealEst",
+              "subsidiary_of": ""
+            }
+          }
+        ]
+      },
+      "transactions": {
+        "transaction": [
+          {
+            "attributes": {
+              "asset_name": "Vanguard Tax-Exempt Money Market",
+              "tx_date": "Nov 25 2014",
+              "tx_action": "Purchased",
+              "value_low": "500001",
+              "value_high": "1000000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Vanguard 500 Index Admiral Fund",
+              "tx_date": "Sep 30 2014",
+              "tx_action": "Purchased",
+              "value_low": "100001",
+              "value_high": "250000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "SPDR Barclays Short Term Corp Bond ETF",
+              "tx_date": "Apr 21 2014",
+              "tx_action": "Purchased",
+              "value_low": "15001",
+              "value_high": "50000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Vanguard Short-Term Corporate Bond ETF",
+              "tx_date": "Apr 21 2014",
+              "tx_action": "Purchased",
+              "value_low": "15001",
+              "value_high": "50000"
+            }
+          },
+          {
+            "attributes": {
+              "asset_name": "Ivy Limited-Term Bond Fund",
+              "tx_date": "Apr 21 2014",
+              "tx_action": "Sold",
+              "value_low": "15001",
+              "value_high": "50000"
+            }
+          }
+        ]
+      },
+      "positions": {
+        "position": [
+          {
+            "attributes": {
+              "title": "Other (Member, Board of Dean's Advisors (Uncompensated))",
+              "organization": "Harvard Business School"
+            }
+          },
+          {
+            "attributes": {
+              "title": "Other (Member, Visiting Committee (Uncompensated))",
+              "organization": "University of Kentucky College of Law"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

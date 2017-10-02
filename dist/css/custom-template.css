@@ -1,0 +1,39 @@
+body {
+  padding-top: 50px;
+  background-color: #f0f0f2;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+	/*padding-bottom: 40px;*/
+}
+
+h3 {
+	padding-top: -50px !important;
+}
+
+button {
+	background-color: #82ca44 !important;
+	border: none !important;
+}
+
+#intro {
+	max-width: 1000px;
+	margin: 5em auto;
+	padding: 50px;
+	background-color: #fff;
+	border-radius: 1em;
+}
+
+@media (max-width: 700px) {
+	body {
+		background-color: #fff;
+	}
+	div {
+		width: auto;
+		margin: 0 auto;
+		border-radius: 0;
+		padding: 1em;
+	}
+}
