@@ -2,7 +2,7 @@
   "name": "dropdown_demo_quill",
   "version": "1.0.0",
   "description": "Template for dropdown UI, which sends separate JSON files to Quill (based on Mike's campaign finance project)",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.15.4",
     "request": "^2.82.0"
